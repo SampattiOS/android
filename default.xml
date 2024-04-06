@@ -16,6 +16,9 @@
   
   <remote  name="s"  
            fetch="https://github.com/SwapnilVicky" />
+  
+  <remote  name="ss"  
+           fetch="https://github.com/SonalSingh18" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
