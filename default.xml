@@ -7,6 +7,9 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
+
+  <remote  name="c0s"
+           fetch="https://github.com/c0smic-Lab" />
   
   <remote  name="Sam"
            fetch="https://github.com/SampattiOS" />
